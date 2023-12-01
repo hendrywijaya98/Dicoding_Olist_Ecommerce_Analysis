@@ -2,7 +2,7 @@
 Dicoding Final Project from Data analysis with Python class, which is using one of mandatory provided dataset by Dicoding that is E-commerce public dataset from Olist Marketplace Platform
 
 ## Dataset Used 
-[E-Commerce Public Dataset from Olist Public Dataset](https://link-url-here.org](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+[E-Commerce Public Dataset from Olist Public Dataset](https://link-url-here.org](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/)
 
 ## Setup environment
 ```
